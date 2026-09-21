@@ -2,3 +2,7 @@ html {
     background-color: rgb(255, 254, 234);
     color: rgb(50, 49, 49);
 }
+
+.sqaure-list {
+    list-style-type: square;
+}
