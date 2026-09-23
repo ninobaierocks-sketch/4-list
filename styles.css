@@ -6,3 +6,9 @@ html {
 .sqaure-list {
     list-style-type: square;
 }
+
+.nav{
+    list-style-type: none;
+    background-color: darkorange;
+    padding: 5%;
+}
